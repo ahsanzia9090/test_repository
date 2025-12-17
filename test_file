@@ -1,0 +1,19 @@
+// Components
+<Button variant="primary" size="md">
+  Click me
+</Button>
+
+<Input 
+  label="Email" 
+  type="email"
+  placeholder="your.email@example.com"
+  helperText="We'll never share your email"
+/>
+
+// Alert notifications
+<Alert 
+  variant="error" 
+  title="Error" 
+  description="Something went wrong"
+  defaultExpanded
+/>
