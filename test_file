@@ -1,3 +1,7 @@
+import { Button } from './components/Button';
+import { Input } from './components/Input';
+import { Alert } from './components/Alert';
+
 // Components
 <Button variant="primary" size="md">
   Click me
